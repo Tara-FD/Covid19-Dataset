@@ -15,6 +15,7 @@ for img in os.listdir(datadir):
     img_array = cv2.imread(os.path.join(datadir,img),0)
     Covid.append([img_array])
 ```
+
 </br>
 ## Citation:
 </br>
