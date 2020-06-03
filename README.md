@@ -7,7 +7,7 @@ are able to identify if a person is infected by SARS-CoV-2 through the analysis 
 </br> http://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 </br>
 ## hint:
-</br> **Use below code to read data in python:**</br>
+</br>**Use below code to read data in python:**</br>
 ```r
 datadir = "Covid19-Dataset/SARS-Cov-2/COVID/"
 Covid=[]
@@ -18,8 +18,7 @@ for img in os.listdir(datadir):
 
 </br>
 # Citation:
-</br>
-Angelov, Plamen, and Eduardo Almeida Soares. "EXPLAINABLE-BY-DESIGN APPROACH FOR COVID-19 CLASSIFICATION VIA CT-SCAN." medRxiv (2020).
+</br>Angelov, Plamen, and Eduardo Almeida Soares. "EXPLAINABLE-BY-DESIGN APPROACH FOR COVID-19 CLASSIFICATION VIA CT-SCAN." medRxiv (2020).
 </br>
 Soares, Eduardo, Angelov, Plamen, Biaso, Sarah, Higa Froes, Michele, and Kanda Abe, Daniel. "SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification." medRxiv (2020). doi: https://doi.org/10.1101/2020.04.24.20078584.
 </br>Link:
