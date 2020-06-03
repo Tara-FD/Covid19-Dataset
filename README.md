@@ -7,8 +7,8 @@ are able to identify if a person is infected by SARS-CoV-2 through the analysis 
 </br> http://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 </br>
 ## hint:
-</br> Use below code to read data in python:</br>
-```
+</br> **Use below code to read data in python:**</br>
+```r
 datadir = "Covid19-Dataset/SARS-Cov-2/COVID/"
 Covid=[]
 for img in os.listdir(datadir):
