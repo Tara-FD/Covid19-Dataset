@@ -17,7 +17,7 @@ for img in os.listdir(datadir):
 ```
 
 </br>
-## Citation:
+# Citation:
 </br>
 Angelov, Plamen, and Eduardo Almeida Soares. "EXPLAINABLE-BY-DESIGN APPROACH FOR COVID-19 CLASSIFICATION VIA CT-SCAN." medRxiv (2020).
 </br>
